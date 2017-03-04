@@ -1,5 +1,11 @@
 # Development roadmap
 
+## pre-realease version 1.0.0
+
+
+## v0.0.2 (source codes)
+
+
 ## v0.0.1 (src)
 
 

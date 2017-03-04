@@ -1,4 +1,4 @@
-# Yii2-region v0.0.1 (src)
+# Yii2-region pre-realease version 1.0.0
 
 [![Latest Stable Version](https://poser.pugx.org/yongtiger/yii2-region/v/stable)](https://packagist.org/packages/yongtiger/yii2-region)
 [![Total Downloads](https://poser.pugx.org/yongtiger/yii2-region/downloads)](https://packagist.org/packages/yongtiger/yii2-region) 
@@ -7,8 +7,6 @@
 
 
 ## FEATURES
-
-* 
 
 
 ## DEPENDENCES
@@ -49,9 +47,15 @@ to the require section of your composer.json.
 
 ## SEE ALSO
 
+* https://github.com/yidashi/yii2cmf
+* https://github.com/chenkby/yii2-region
+* http://www.yii-china.com/post/detail/378.html
+* http://www.yii-china.com/post/detail/367.html
+
 
 ## TODO
 
+* region_china, region_us, etc.
 
 ## [Development roadmap](docs/development-roadmap.md)
 
