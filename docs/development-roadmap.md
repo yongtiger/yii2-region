@@ -1,5 +1,8 @@
 # Development roadmap
 
+## pre-realease version 1.0.1 (FIX# i18n:long text translation)
+
+
 ## pre-realease version 1.0.0
 
 
