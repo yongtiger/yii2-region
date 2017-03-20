@@ -14,6 +14,7 @@ namespace yongtiger\region\controllers;
 
 use Yii;
 use yii\web\Controller;
+use yii\web\Response;
 use yongtiger\region\models\Region;
 
 /**
@@ -31,7 +32,7 @@ class DefaultController extends Controller
      */
     public function actionGetChildren($id)
     {
-        Yii::$app->response->format = 'json';
+        Yii::$app->response->format = Response::FORMAT_JSON;
         if (!is_numeric($id)) {
             $id = null;
         }

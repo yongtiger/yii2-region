@@ -1,5 +1,8 @@
 # Development roadmap
 
+## pre-realease version 1.0.2 (TYPO# src\controllers\DefaultController.php:Response::FORMAT_JSON)
+
+
 ## pre-realease version 1.0.1 (FIX# i18n:long text translation)
 
 
