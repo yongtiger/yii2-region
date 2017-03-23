@@ -21,6 +21,15 @@ use Yii;
  */
 class Module extends \yii\base\Module
 {
+
+    ///[1.1.0 (CHG# tableName)]
+    /**
+     * Table name of setting
+     *
+     * @var string
+     */
+    public $regionTableName = '{{%region_china}}';
+
     /**
      * @inheritdoc
      */

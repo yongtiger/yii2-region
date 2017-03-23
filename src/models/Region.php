@@ -13,9 +13,10 @@
 namespace yongtiger\region\models;
 
 use Yii;
+use yii\db\ActiveRecord;
 
 /**
- * This is the model class for table "{{%region_china}}".
+ * This is the model class for region table, e.g. "{{%region_china}}".
  *
  * @property integer $id
  * @property string $name
@@ -23,14 +24,14 @@ use Yii;
  * @property integer $sort
  * @property integer $level
  */
-class Region extends \yii\db\ActiveRecord
+class Region extends ActiveRecord
 {
     /**
      * @inheritdoc
      */
     public static function tableName()
     {
-        return '{{%region_china}}';
+        return Yii::$app->getModule('region')->regionTableName;  ///[1.1.0 (CHG# tableName)]
     }
 
     /**

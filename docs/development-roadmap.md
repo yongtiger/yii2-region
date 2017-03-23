@@ -1,5 +1,8 @@
 # Development roadmap
 
+## pre-realease version 1.1.0 (CHG# tableName)
+
+
 ## pre-realease version 1.0.2 (TYPO# src\controllers\DefaultController.php:Response::FORMAT_JSON)
 
 
