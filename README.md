@@ -1,4 +1,4 @@
-# Yii2-region pre-realease version 1.1.0 (CHG# tableName)
+# Yii2-region pre-realease version 1.1.1 (FIX# arguments.callee.caller.arguments)
 
 [![Latest Stable Version](https://poser.pugx.org/yongtiger/yii2-region/v/stable)](https://packagist.org/packages/yongtiger/yii2-region)
 [![Total Downloads](https://poser.pugx.org/yongtiger/yii2-region/downloads)](https://packagist.org/packages/yongtiger/yii2-region) 
